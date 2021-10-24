@@ -4,10 +4,3 @@ body
     text-align: center;
     font-family: Arial, Helvetica, sans-serif;
 }
-#extencion
-{
-    border: solid black;
-    margin: 1 rem;
-    padding: 5px;
-    color: yellow;
-}
