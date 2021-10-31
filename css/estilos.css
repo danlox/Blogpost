@@ -8,8 +8,8 @@ body
 #cabecera 
 {
     text-align: center;
-    width: max-content;
-    margin: 0;
+    width: min-content;
+    margin: 12 rem;
     border: solid black;
 }
 #extension 
