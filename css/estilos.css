@@ -2,7 +2,7 @@ body
 {
     color:black;
     text-align: center;
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: Georgia, 'Times New Roman', Times, serif;
 }
 
 #cabecera 
@@ -11,4 +11,10 @@ body
     width: max-content;
     margin: 0;
     border: solid black;
+}
+#extension 
+{
+    border: solid yellow;
+    margin: auto;
+    padding: 3rem;
 }
